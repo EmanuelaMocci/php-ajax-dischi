@@ -1,3 +1,7 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 /* header */
 header{
     background-color: #2E3A46;
@@ -53,10 +57,8 @@ header{
 }
 .text{
     text-align: center;
-    padding: 15px 0 35px 0;
 }
 .text h4{
-    padding: 0 10px 10px 12px;
     color: white;
     text-transform: uppercase;
 }
