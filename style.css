@@ -33,6 +33,7 @@ header{
 .contenitore-img .img{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     max-width: 60%;
     margin: auto;
     padding-top: 35px;
