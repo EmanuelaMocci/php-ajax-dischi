@@ -3,7 +3,7 @@ body{
 }
 
 /* header */
-header{
+header, .header{
     background-color: #2E3A46;
     display: flex;
     align-items: center;

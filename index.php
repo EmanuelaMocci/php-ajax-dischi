@@ -43,8 +43,8 @@
                 <?php } ?>
             </div>
 
-    </section>
-</main>
+        </section>
+    </main>
 
 </body>
 </html>
